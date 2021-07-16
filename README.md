@@ -26,7 +26,7 @@
 
 ### What works and What doesn't or WIP:
 
-- [x] Intel UHD 630 iGPU + HDMI AUDIO/HDMI/DP VIDEO
+- [x] Intel HD 630 iGPU + HDMI AUDIO/HDMI/DP VIDEO
 - [x] All USB Ports 
 - [ ] SpeedStep / Sleep / Wake
 - [x] Wi-Fi Intel AC 7265

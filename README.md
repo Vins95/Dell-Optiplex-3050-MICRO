@@ -17,7 +17,7 @@
 | Ram              | 8GB 2133 Mhz DDR4  |            |
 | Wifi             | Intel WIFI - 7265  |
 | SSD             | Samsung 860 256 GB                  
-| SmBios    10.15+       | macmini 8,1  |   
+| SmBios          | macmini 8,1  |   
 | BootLoader       | OpenCore 0.7.1                    
 
 
